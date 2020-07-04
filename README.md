@@ -1,2 +1,2 @@
-# Right St
+# Right Sta
 Right Arrow Star Pattern in Java.
